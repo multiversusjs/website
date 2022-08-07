@@ -1,0 +1,11 @@
+# Packages
+node_modules/
+
+# Dist
+dist/
+typings/
+.cache/
+build/
+api/
+src/styles/unocss.css
+.next/
