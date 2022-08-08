@@ -12,7 +12,12 @@ export default defineConfig({
 		presetWebFonts({
 			provider: 'google',
 			fonts: {
-				bolded: ['Barlow Semi Condensed:bolditalic'],
+				barlow: [{
+          name: 'Barlow Semi Condensed',
+          weights: ['800'],
+          italic: true,
+          },
+				}],
 			},
 		}),
 	],

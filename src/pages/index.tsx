@@ -29,7 +29,7 @@ export default function IndexRoute() {
 			<div className="xl:flex xl:flex-col xl:justify-center w-full max-w-full box-border p-10">
 				<div className="flex flex-col xl:flex-row grow max-w-[1100px] pb-10 space-y-10 xl:space-x-20 place-items-center place-self-center">
 					<div className="flex flex-col max-w-[800px] lt-xl:items-center">
-						<h1 className="font-bolded font-italic font-bold text-6xl text-dark-100 dark:text-gray-300 my-2 text-center">{text.heroTitle}</h1>
+						<h1 className="font-barlow font-italic font-bold text-6xl text-dark-100 dark:text-gray-300 my-2 text-center">{text.heroTitle}</h1>
 						<p className="text-xl text-dark-100 dark:text-gray-300">{text.heroDescription}</p>
 					</div>
 				</div>
