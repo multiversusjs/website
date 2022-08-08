@@ -16,7 +16,6 @@ export default defineConfig({
           name: 'Barlow Semi Condensed',
           weights: ['800'],
           italic: true,
-          },
 				}],
 			},
 		}),
